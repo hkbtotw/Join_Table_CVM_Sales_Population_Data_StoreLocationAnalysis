@@ -1,0 +1,10 @@
+*.csv
+*.xlsx
+*.exe
+data/
+output/
+sales_data/
+temp/
+Credential.*
+Remove_Duplicates.py
+SHAPE/
