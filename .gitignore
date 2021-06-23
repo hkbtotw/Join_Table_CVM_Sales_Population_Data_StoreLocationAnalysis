@@ -7,4 +7,9 @@ sales_data/
 temp/
 Credential.*
 Remove_Duplicates.py
+Remove_Duplicates_rev2.py
 SHAPE/
+Find_RR_FalgShip_Store_rev3.py
+Find_RR_FalgShip_Store.py
+Check_Over_Population.py
+CustomerSelection_by_TotalScore.py
